@@ -1,3 +1,12 @@
+### 遇见的问题 ###
+*Error：Process completed with exit code 2
+*解决方法：
+*到h大那的rt-n56u/trunk/user/htop/Makefile下载新库
+*把库fork一下，然后修改一下
+
+
+
+
 ### 固件说明 ###
 * 默认登陆IP:192.168.2.1 
 * 默认用户名/密码:admin/admin
