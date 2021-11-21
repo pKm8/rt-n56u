@@ -1,8 +1,10 @@
 ### 遇见的问题 ###
-*Error：Process completed with exit code 2
-*解决方法：
-*到h大那的rt-n56u/trunk/user/htop/Makefile下载新库
-*把库fork一下，然后修改一下
+* Error：Process completed with exit code 2 
+
+* 解决方法： 
+* 到h大那的rt-n56u/trunk/user/htop/Makefile下载新库 
+*  （https://github.com/hanwckf/rt-n56u/blob/master/trunk/user/htop/htop-3.0.2.tar.gz） 
+* 把库fork一下，然后修改一下 
 
 
 
